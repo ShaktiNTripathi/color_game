@@ -1,0 +1,625 @@
+[21-Feb-2024 19:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biggujar/public_html/9987/src/api/bet.php:1175) in /home/biggujar/public_html/9987/src/api/bet.php on line 1555
+[22-Feb-2024 04:50:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biggujar/public_html/9987/src/api/bet.php:1242) in /home/biggujar/public_html/9987/src/api/bet.php on line 1555
+[22-Feb-2024 09:45:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biggujar/public_html/9987/src/api/bet.php:289) in /home/biggujar/public_html/9987/src/api/bet.php on line 1555
+[22-Feb-2024 09:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biggujar/public_html/9987/src/api/bet.php:289) in /home/biggujar/public_html/9987/src/api/bet.php on line 1555
+[06-Apr-2024 19:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:22:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:22:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 1483
+[06-Apr-2024 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:1485
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 1485
+[06-Apr-2024 19:22:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:23:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:23:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:25:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:25:41 UTC] PHP Stack trace:
+[06-Apr-2024 19:25:41 UTC] PHP   1. {main}() /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:0
+[06-Apr-2024 19:25:41 UTC] PHP   2. mysqli_num_rows($result = FALSE) /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:175
+[06-Apr-2024 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:25:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:25:41 UTC] PHP Stack trace:
+[06-Apr-2024 19:25:41 UTC] PHP   1. {main}() /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:0
+[06-Apr-2024 19:25:41 UTC] PHP   2. mysqli_num_rows($result = FALSE) /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:175
+[06-Apr-2024 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:25:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:25:42 UTC] PHP Stack trace:
+[06-Apr-2024 19:25:42 UTC] PHP   1. {main}() /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:0
+[06-Apr-2024 19:25:42 UTC] PHP   2. mysqli_num_rows($result = FALSE) /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:175
+[06-Apr-2024 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:25:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:25:42 UTC] PHP Stack trace:
+[06-Apr-2024 19:25:42 UTC] PHP   1. {main}() /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:0
+[06-Apr-2024 19:25:42 UTC] PHP   2. mysqli_num_rows($result = FALSE) /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:175
+[06-Apr-2024 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[06-Apr-2024 19:26:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[06-Apr-2024 19:26:04 UTC] PHP Stack trace:
+[06-Apr-2024 19:26:04 UTC] PHP   1. {main}() /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:0
+[06-Apr-2024 19:26:04 UTC] PHP   2. mysqli_num_rows($result = FALSE) /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:175
+[06-Apr-2024 19:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[06-Apr-2024 19:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[18-Apr-2024 16:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 224
+[18-Apr-2024 16:08:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 175
+[18-Apr-2024 16:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/digitech/tan-bee-771398.hostingersite.com/9987/src/api/bet.php on line 177
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 17:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 17:59:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 17:59:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 17:59:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 17:59:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 104
+[27-Apr-2024 18:00:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109
+[27-Apr-2024 18:00:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 113
+[27-Apr-2024 18:00:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 119
+[27-Apr-2024 18:00:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 57
+[27-Apr-2024 18:00:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/9987/src/api/bet.php on line 109

@@ -1,0 +1,180 @@
+[01-May-2024 15:54:24 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 14
+    [matchId] => 0
+    [betAmount] => 100
+    [selectedAnswer] => mumbai
+)
+
+[01-May-2024 16:37:30 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 14
+    [matchId] => 0
+    [betAmount] => 1
+    [selectedAnswer] => mumbai
+)
+
+[01-May-2024 16:57:26 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 15
+    [selectedAnswer] => CSK
+)
+
+[01-May-2024 17:28:21 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 10
+    [selectedAnswer] => GT
+)
+
+[01-May-2024 17:34:36 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 1
+    [selectedAnswer] => GT
+)
+
+[01-May-2024 17:35:02 UTC] Received data: Array
+(
+    [username] => 7874990627
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 10
+    [selectedAnswer] => CSK
+)
+
+[01-May-2024 17:44:23 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 100
+    [selectedAnswer] => CSK
+)
+
+[01-May-2024 17:56:54 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 100
+    [selectedAnswer] => CSK
+)
+
+[01-May-2024 17:57:23 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 100
+    [selectedAnswer] => CSK
+)
+
+[01-May-2024 17:57:28 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 10
+    [selectedAnswer] => CSK
+)
+
+[02-May-2024 06:14:23 UTC] Received data: Array
+(
+    [username] => 7698385343
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 200
+    [selectedAnswer] => GT
+)
+
+[02-May-2024 06:14:33 UTC] Received data: Array
+(
+    [username] => 7698385343
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 200
+    [selectedAnswer] => GT
+)
+
+[02-May-2024 09:05:23 UTC] Received data: Array
+(
+    [username] => 7874279511
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 1000
+    [selectedAnswer] => GT
+)
+
+[02-May-2024 09:05:38 UTC] Received data: Array
+(
+    [username] => 7874279511
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 1000
+    [selectedAnswer] => CSK
+)
+
+[02-May-2024 10:33:57 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 10
+    [selectedAnswer] => CSK
+)
+
+[02-May-2024 12:25:18 UTC] Received data: Array
+(
+    [username] => 7698385343
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 200
+    [selectedAnswer] => CSK
+)
+
+[05-May-2024 11:47:01 UTC] Received data: Array
+(
+    [username] => 7874279511
+    [questionId] => 2
+    [matchId] => 0
+    [betAmount] => 10000
+    [selectedAnswer] => 200
+)
+
+[05-May-2024 12:46:44 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 5
+    [selectedAnswer] => Modi
+)
+
+[05-May-2024 12:48:24 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 1
+    [matchId] => 1
+    [betAmount] => 7
+    [selectedAnswer] => Ashok
+)
+
+[26-May-2024 21:03:15 UTC] Received data: Array
+(
+    [username] => 1234567890
+    [questionId] => 2
+    [matchId] => 1278
+    [betAmount] => 20
+    [selectedAnswer] => 20
+)
+

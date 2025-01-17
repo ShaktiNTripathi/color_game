@@ -1,0 +1,42 @@
+[27-Apr-2024 11:26:41 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/digitech/tan-bee-771398.hostingersite.com/notice.php on line 47
+[27-Apr-2024 11:27:19 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/digitech/tan-bee-771398.hostingersite.com/notice.php on line 47
+[27-Apr-2024 13:38:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/cricketquestion.php on line 95
+[27-Apr-2024 13:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/cricketquestion.php on line 95
+[27-Apr-2024 13:41:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/digitech/tan-bee-771398.hostingersite.com/cricketquestion.php on line 95
+[27-Apr-2024 18:40:10 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[30-Apr-2024 04:58:51 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 14
+[30-Apr-2024 04:58:51 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 15
+[30-Apr-2024 04:58:55 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 14
+[30-Apr-2024 04:58:55 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 15
+[30-Apr-2024 04:58:55 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 14
+[30-Apr-2024 04:58:55 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 15
+[01-May-2024 15:23:28 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[01-May-2024 15:25:04 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[01-May-2024 15:25:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/accept.php on line 22
+[02-May-2024 09:04:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/accept.php on line 22
+[05-May-2024 10:29:21 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/notice.php on line 47
+[05-May-2024 10:29:26 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/notice.php on line 47
+[05-May-2024 10:29:58 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 10:30:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 10:30:11 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/notice.php on line 47
+[05-May-2024 11:14:55 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/notice.php on line 47
+[05-May-2024 11:14:59 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/notice.php on line 47
+[05-May-2024 11:15:06 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 11:16:52 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 11:20:56 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 14
+[05-May-2024 11:20:56 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/updateotp.php on line 15
+[05-May-2024 11:25:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 12:13:10 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 12:13:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 12:13:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/apexewin/public_html/upi.php on line 47
+[05-May-2024 14:10:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/apexewin/public_html/accept.php on line 22
+[26-May-2024 07:59:05 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/notice.php on line 47
+[26-May-2024 07:59:10 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/upi.php on line 47
+[26-May-2024 07:59:37 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/upi.php on line 47
+[26-May-2024 08:04:20 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/upi.php on line 47
+[26-May-2024 08:04:24 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/notice.php on line 47
+[26-May-2024 08:04:36 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/updateotp.php on line 14
+[26-May-2024 08:04:36 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/updateotp.php on line 15
+[26-May-2024 18:22:46 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/upi.php on line 47
+[26-May-2024 18:23:01 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/notice.php on line 47
+[26-May-2024 21:06:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/thewinzo/public_html/upi.php on line 47
